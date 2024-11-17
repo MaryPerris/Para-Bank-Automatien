@@ -1,0 +1,6 @@
+com\util\BaseConfig.class
+com\generic\SeleniumPageFactory.class
+com\excel\read\ExcelManager.class
+com\util\SeleniumSupportingClick.class
+com\generic\SrefDef.class
+com\util\Highlighter.class
